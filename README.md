@@ -18,3 +18,4 @@ The features of the last updated version - 10.0
 –Cannot cancel a transaction with bitcoin server
 -You can spend bitcoins easily on any other address (Segwit address, legacy, Segwit / bch32)
 -it works with all wallets
+reach me on whatsapp +15817044264
