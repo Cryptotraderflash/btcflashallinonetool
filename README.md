@@ -2,7 +2,7 @@
 
 BITCOIN FAKE TRANSACTION (All in one tool) 7.6.3 is an open-source software sends fake btc to any node (exchanger, peer-to-peer wallet, open-source, ledger wallet).
 
-The features of BITCOIN FAKE TRANSACTION (Lightning Network) 3.0.1
+The features of BITCOIN FAKE TRANSACTION (All in one tool) 7.6.3
 
 -Work in all countries, no ip address restriction
 -Send transactions with confirmation
